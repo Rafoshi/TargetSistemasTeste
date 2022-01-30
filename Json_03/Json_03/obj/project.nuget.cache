@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V25oBcguoqsK5i0I3wSs5O9yfRo6qYvF6es9U9F/8sLLCQpmafCkiS29xOlUIID1NDVmkaphS6+5baiZF1yOpA==",
+  "success": true,
+  "projectFilePath": "D:\\Codes\\targetsistemas\\Json_03\\Json_03\\Json_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafai\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

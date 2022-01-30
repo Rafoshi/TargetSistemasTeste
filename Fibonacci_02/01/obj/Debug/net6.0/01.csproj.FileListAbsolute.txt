@@ -1,0 +1,15 @@
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\01.exe
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\01.deps.json
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\01.runtimeconfig.json
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\01.dll
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\ref\01.dll
+D:\Codes\targetsistemas\01\01\bin\Debug\net6.0\01.pdb
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.csproj.AssemblyReference.cache
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.AssemblyInfoInputs.cache
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.AssemblyInfo.cs
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.csproj.CoreCompileInputs.cache
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.dll
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\ref\01.dll
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.pdb
+D:\Codes\targetsistemas\01\01\obj\Debug\net6.0\01.genruntimeconfig.cache

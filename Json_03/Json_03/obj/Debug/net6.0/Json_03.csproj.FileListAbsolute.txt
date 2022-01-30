@@ -1,0 +1,17 @@
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Json_03.exe
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Json_03.deps.json
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Json_03.runtimeconfig.json
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Json_03.dll
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\ref\Json_03.dll
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Json_03.pdb
+D:\Codes\targetsistemas\Json_03\Json_03\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.csproj.AssemblyReference.cache
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.AssemblyInfoInputs.cache
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.AssemblyInfo.cs
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.csproj.CoreCompileInputs.cache
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.csproj.CopyComplete
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.dll
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\ref\Json_03.dll
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.pdb
+D:\Codes\targetsistemas\Json_03\Json_03\obj\Debug\net6.0\Json_03.genruntimeconfig.cache

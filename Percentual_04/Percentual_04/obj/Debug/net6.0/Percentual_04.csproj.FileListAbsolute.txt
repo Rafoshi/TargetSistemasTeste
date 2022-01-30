@@ -1,0 +1,15 @@
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\Percentual_04.exe
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\Percentual_04.deps.json
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\Percentual_04.runtimeconfig.json
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\Percentual_04.dll
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\ref\Percentual_04.dll
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\bin\Debug\net6.0\Percentual_04.pdb
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.csproj.AssemblyReference.cache
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.AssemblyInfoInputs.cache
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.AssemblyInfo.cs
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.csproj.CoreCompileInputs.cache
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.dll
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\ref\Percentual_04.dll
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.pdb
+D:\Codes\targetsistemas\Percentual_04\Percentual_04\obj\Debug\net6.0\Percentual_04.genruntimeconfig.cache

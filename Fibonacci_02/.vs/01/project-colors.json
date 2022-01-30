@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67b68980-26a6-48fe-9705-1b0e6dd564d6": {
+      "ProjectGuid": "67b68980-26a6-48fe-9705-1b0e6dd564d6",
+      "DisplayName": "01",
+      "ColorIndex": 0
+    },
+    "a4db68d7-fa69-492a-b3d7-8e7b10216980": {
+      "ProjectGuid": "a4db68d7-fa69-492a-b3d7-8e7b10216980",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "de4aae20-1d48-4862-a58e-dfd77c2b5bb2": {
+      "ProjectGuid": "de4aae20-1d48-4862-a58e-dfd77c2b5bb2",
+      "DisplayName": "Fibonacci",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

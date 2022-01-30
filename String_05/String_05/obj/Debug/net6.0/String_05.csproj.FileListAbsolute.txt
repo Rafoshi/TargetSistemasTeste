@@ -1,0 +1,15 @@
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\String_05.exe
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\String_05.deps.json
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\String_05.runtimeconfig.json
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\String_05.dll
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\ref\String_05.dll
+D:\Codes\targetsistemas\String_05\String_05\bin\Debug\net6.0\String_05.pdb
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.csproj.AssemblyReference.cache
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.AssemblyInfoInputs.cache
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.AssemblyInfo.cs
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.csproj.CoreCompileInputs.cache
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.dll
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\ref\String_05.dll
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.pdb
+D:\Codes\targetsistemas\String_05\String_05\obj\Debug\net6.0\String_05.genruntimeconfig.cache
